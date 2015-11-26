@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<arbre xmlns="http://toto.org" xmlns:h="http://bidule.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tree.xsd">
+    <valeur>3</valeur>
+    <fils>
+        <valeur>3</valeur>
+        <fils>
+            <valeur>2</valeur>
+        </fils>
+    </fils>
+    <fils>
+        <valeur>4</valeur>
+    </fils>
+</arbre>
